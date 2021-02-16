@@ -18,7 +18,7 @@ Im Widget-Parameter kann die Haltestelle per Namen definiert werden. Genaue Beze
  9. Bei Parameter gewünsche Haltestelle eingeben
  10. Fertig. Später kann die Haltestelle angepasst werden, wenn lange auf das Widget gedrückt wird und "Scriptable/Widget bearbeiten" ausgewählt wird.
 
-![image2](https://user-images.githubusercontent.com/4943203/108132799-c61a4780-70b3-11eb-9edb-eaed73e70c80.jpg)
+![image2](https://user-images.githubusercontent.com/4943203/108132799-c61a4780-70b3-11eb-9edb-eaed73e70c80.jpg =250x)
 
 Hinweis: Es können mehrere Widgets auf den Home Screen gelegt und individuell konfiguriert werden!
 
