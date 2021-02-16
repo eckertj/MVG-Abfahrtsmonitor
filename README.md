@@ -6,17 +6,24 @@ Dieses Widget zeigt aktuelle Abfahrten von Bus, Bahn und/oder Tram des Münchner
 
 Im Widget-Parameter kann die Haltestelle per Namen definiert werden. Genaue Bezeichnungen der Haltestellen können hier eingesehen werden: [MVG Website](https://www.mvg.de/dienste/abfahrtszeiten.html) 
 
+## Widget zu Scriptable hinzufügen
+
+ 1. Scriptable App öffnen
+ 2. Oben auf das "+" drücken
+ 3. Content aus [MVG-Abfahrtsmonitor.js](https://raw.githubusercontent.com/eckertj/MVG-Abfahrtsmonitor/master/MVG-Abfahrtsmonitor.js) in das Script kopieren (darauf achten, dass wirklich alle Zeichen mitkopiert werden)
+ 4. Done
+
 ## Installation des Widgets
+
  1. Lange auf eine App auf dem Home-Screen drücken.
- 2. List item
- 3. "Home-Bildschirm bearbeiten" auswählen.
- 4. Oben auf das "+" drücken
- 5. Runterscrollen bis "Scriptable" in der Liste erscheint.
- 6. Gewünschte Widgetgröße auswählen.
- 7. Auf das neue Widget drücken.
- 8. Bei Script "MVG Abfahrtsmonitor" auswählen.
- 9. Bei Parameter gewünsche Haltestelle eingeben
- 10. Fertig. Später kann die Haltestelle angepasst werden, wenn lange auf das Widget gedrückt wird und "Scriptable/Widget bearbeiten" ausgewählt wird.
+ 2. "Home-Bildschirm bearbeiten" auswählen.
+ 3. Oben auf das "+" drücken
+ 4. Runterscrollen bis "Scriptable" in der Liste erscheint.
+ 5. Gewünschte Widgetgröße auswählen.
+ 6. Auf das neue Widget drücken.
+ 7. Bei Script "MVG-Abfahrtsmonitor" auswählen.
+ 8. Bei Parameter gewünsche Haltestelle eingeben
+ 9. Fertig. Später kann die Haltestelle angepasst werden, wenn lange auf das Widget gedrückt wird und "Scriptable/Widget bearbeiten" ausgewählt wird.
 
 Hinweis: Es können mehrere Widgets auf den Home Screen gelegt und individuell konfiguriert werden!
 

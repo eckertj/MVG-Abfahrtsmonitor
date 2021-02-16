@@ -8,8 +8,10 @@ von Jacob Eckert
 16.02.2021
 
 GitHub für Updates:
+https://github.com/eckertj/MVG-Abfahrtsmonitor
 
 Für dieses Widget gilt die Apache 2.0 Lizenz
+https://github.com/eckertj/MVG-Abfahrtsmonitor/blob/master/LICENSE
 
 Dieses Widget zeigt aktuelle Abfahrten von Bus, Bahn
 und/oder Tram des Münchner Verkehrs- und Tarifverbunds
