@@ -1,4 +1,7 @@
 # MVG Abfahrtsmonitor Widget (Scriptable)
+
+![image](https://user-images.githubusercontent.com/4943203/108132598-6885fb00-70b3-11eb-9742-c9d3ac7691c3.png)
+
 Dieses Widget zeigt aktuelle Abfahrten von Bus, Bahn und/oder Tram des Münchner Verkehrs- und Tarifverbunds für eine definierte Haltestelle an. Die Daten hierfür stammen von mvg.de. Unterstützt werden iOS 14 und macOS 11 Big Sur Widgets in klein, mittel und groß.
 
 Im Widget-Parameter kann die Haltestelle per Namen definiert werden. Genaue Bezeichnungen der Haltestellen können hier eingesehen werden: [MVG Website](https://www.mvg.de/dienste/abfahrtszeiten.html) 
@@ -14,6 +17,8 @@ Im Widget-Parameter kann die Haltestelle per Namen definiert werden. Genaue Beze
  8. Bei Script "MVG Abfahrtsmonitor" auswählen.
  9. Bei Parameter gewünsche Haltestelle eingeben
  10. Fertig. Später kann die Haltestelle angepasst werden, wenn lange auf das Widget gedrückt wird und "Scriptable/Widget bearbeiten" ausgewählt wird.
+
+![image2](https://user-images.githubusercontent.com/4943203/108132799-c61a4780-70b3-11eb-9edb-eaed73e70c80.jpg)
 
 Hinweis: Es können mehrere Widgets auf den Home Screen gelegt und individuell konfiguriert werden!
 
