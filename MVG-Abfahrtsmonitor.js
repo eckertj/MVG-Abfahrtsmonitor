@@ -33,8 +33,9 @@ Installation des Widgets:
 5. Gewünschte Widgetgröße auswählen.
 6. Auf das neue Widget drücken.
 7. Bei Script "MVG-Abfahrtsmonitor" auswählen.
-8. Bei Parameter gewünsche Haltestelle eingeben
-9. Fertig. Später kann die Haltestelle angepasst werden,
+8. Bei When Interacting 'Run Script' auswählen.
+9. Bei Parameter gewünsche Haltestelle eingeben.
+10. Fertig. Später kann die Haltestelle angepasst werden,
    wenn lange auf das Widget gedrückt wird und
    "Scriptable/Widget bearbeiten" ausgewählt wird.
     
