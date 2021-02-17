@@ -98,8 +98,9 @@ function createDateString()
 {
   const now = new Date(Date.now())
 
-  let day = (now.getDay().toString().length > 1) ? now.getDay().toString() : "0" + now.getDay().toString()
-  let month = (now.getMonth().toString().length > 1) ? now.getMonth().toString() : "0" + now.getMonth().toString()
+  let day = (now.getDate().toString().length > 1) ? now.getDate().toString() : "0" + now.getDate().toString()
+  let monthNumb = now.getMonth() + 1
+  let month = (monthNumb.toString().length > 1) ? monthNumb.toString() : "0" + monthNumb.toString()
   let year = now.getFullYear().toString()
   let hours = (now.getHours().toString().length > 1) ? now.getHours().toString() : "0" + now.getHours().toString()
   let minutes = (now.getMinutes().toString().length > 1) ? now.getMinutes().toString() : "0" + now.getMinutes().toString()
